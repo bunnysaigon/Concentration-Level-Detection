@@ -20,8 +20,7 @@ We utilized a commercial and portable Muse 2 headband with four EEG channels (TP
 
 ### Executing program
 
-* The input data is located within the data folder. It is obtained from MUSE 2 on eight subjects on 60-second sessions for each state.  
-* The program has two parts. First, run the script for feature extraction which will pre-process the EEG signals. And then run the script for detection which will build the deep learning model and perform the task. 
-```
-code blocks for commands
-```
+* The input data is located within the data folder. There all 24 data files in total, eight files for each class. It is four-channel EEG data obtained from MUSE 2 on eight subjects on 60-second sessions for each state.  
+* The program has two parts. First, run the script for feature extraction which will pre-process the EEG signals. 
+* Then run the script for detection which will build the deep learning model and perform the task. 
+
