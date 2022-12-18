@@ -26,7 +26,7 @@ We utilized a commercial and portable Muse 2 headband with four EEG channels (TP
 * test_train: This directory contains the training (75%) and testing (25%) dataset.
 
 ### Input and output
-* The input data is recording with MUSE 2 on eight subjects on 60-second sessions for each state. The BlueMuse and MuseLSL were utilized for import the data.
+* The input data is recording with MUSE 2 on eight subjects on 60-second sessions for each state. The BlueMuse and MuseLSL were utilized to import the data.
 * As for output, the CNN-based deep learning model categorizes the EEG data into three concentration-level classes: neutral, concentrating, relaxed.
 
 ### Executing program
