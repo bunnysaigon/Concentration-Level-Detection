@@ -4,7 +4,9 @@ Our work aims to identify a mechanism for detecting human emotions and concentra
 
 ## Description
 
-We present a CNN model for concurrently detecting emotions and concentration levels using mobile EEG (mEEG) inputs obtained from a commercial and portable Muse 2 headband with four EEG channels (TP9, AF7, AF8, TP10).  With an experiment on eight participants, we were able to achieve an accuracy of over 90%.
+We present a CNN model for concurrently detecting emotions and concentration levels using mobile EEG (mEEG) inputs obtained from a commercial and portable Muse 2 headband with four EEG channels (TP9, AF7, AF8, TP10).  With an experiment on eight participants, we achieved an accuracy of over 90%.
+
+A more in-depth report can be found here: https://github.com/bunnysaigon/Concentration-Level-Detection/blob/main/mEEG_based_Deep_Learning_Approach_for_Detecting_Human_Concentration_Levels.pdf
 
 
 ## Getting Started
