@@ -1,10 +1,10 @@
 # Concentration Level Classification using mEEG data
 
-Our work aims to identify a mechanism for detection human emotions and concentration levels using EEG signals.
+Our work aims to identify a mechanism for detecting human emotions and concentration levels using EEG signals.
 
 ## Description
 
-We utilized a commercial and portable Muse 2 headband with four EEG channels (TP9, AF7, AF8, TP10). Using mobile EEG (mEEG) inputs, we present a CNN model for concurrently detecting emotions and concentration levels. With an experiment on eight participants, we were able achieve an accuracy of over 90%.
+We present a CNN model for concurrently detecting emotions and concentration levels using mobile EEG (mEEG) inputs obtained from a commercial and portable Muse 2 headband with four EEG channels (TP9, AF7, AF8, TP10).  With an experiment on eight participants, we were able to achieve an accuracy of over 90%.
 
 
 ## Getting Started
